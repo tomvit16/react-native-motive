@@ -19,7 +19,7 @@
     "react-native": "0.61.3",
     "react-router-dom": "^5.1.2",
     "react-router-native": "^5.1.2",
-    "yarn": "^1.19.1"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4",
